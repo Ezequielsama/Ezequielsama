@@ -20,6 +20,7 @@
 [![PHP Script Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![MongoDB_Compass_Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Mysql Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ##
 
@@ -32,11 +33,14 @@
 
 ###
 
+![Snake animation](https://github.com/Ezequielsama/Ezequielsama/blob/output/github-contribution-grid-snake.svg)
+
+###
+
 <div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=Ezequiel&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
 
-###
 
 <div>
 <p>
