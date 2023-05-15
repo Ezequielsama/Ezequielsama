@@ -27,8 +27,8 @@
 ## ⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/Ezequielsama">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ezequielsama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ezequielsama&layout=compact&langs_count=16&theme=dracula"/><br></a>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ezequielsama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ezequielsama&layout=compact&langs_count=16&theme=tokyonight"/><br></a>
 </div>
 
 ###
