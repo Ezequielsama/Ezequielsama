@@ -39,6 +39,12 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielsama&theme=tokyonight&hide_border=true&&layout=compact"/><br></a>
 </div>
 
+
+## Core Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Extrair_Membros_Telegram&theme=radical)](https://github.com/Ezequielsama/Extrair_Membros_Telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=sistema_financeiro&theme=radical)](https://github.com/Ezequielsama/sistema_financeiro)
+
 ###
 
 ![Snake animation](https://github.com/Ezequielsama/Ezequielsama/blob/output/github-contribution-grid-snake.svg)
