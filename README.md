@@ -47,7 +47,7 @@
 <div>
 <p>
 
-Atualmente trabalhando na **Cozmo Soluções**
+Atualmente trabalhando no **INFINITY TRADERX**
 <br/>
 </p>
 <hr>
