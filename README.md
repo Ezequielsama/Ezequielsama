@@ -2,8 +2,7 @@
 
 <h3> Sobre mim </h3>
 
-<h5> ❤️ Amo programar! full-stack developer!
-</h5>
+<h4> ❤️ Amo programar! full-stack developer!</h4>
 
 ## 💬 Meus Contatos e Redes
 
