@@ -58,7 +58,7 @@
 <div>
 <p>
 
-Atualmente trabalhando no **INFINITY TRADERX**
+Atualmente trabalhando no **HAVAN LABS**
 <br/>
 </p>
 <hr>
