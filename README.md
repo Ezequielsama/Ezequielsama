@@ -47,10 +47,6 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ezequielsama&bg_color=141414&color=00ffbf&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
-
 <div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=Ezequiel&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
