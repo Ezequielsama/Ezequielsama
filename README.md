@@ -42,8 +42,8 @@
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Extrair_Membros_Telegram&theme=radical)](https://github.com/Ezequielsama/Extrair_Membros_Telegram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=sistema_financeiro&theme=radical)](https://github.com/Ezequielsama/sistema_financeiro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=EBAC-Full-Stack-Python&theme=radical)](https://github.com/Ezequielsama/EBAC-Full-Stack-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Curso-em-Video-JavaScript&theme=radical)](https://github.com/Ezequielsama/Curso-em-Video-JavaScript)
 
 ###
 
