@@ -54,7 +54,7 @@
 <div>
 <p>
 
-Atualmente trabalhando no **HAVAN**
+Atualmente trabalhando na **HAVAN**
 <br/>
 </p>
 <hr>
