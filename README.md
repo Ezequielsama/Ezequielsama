@@ -42,12 +42,8 @@
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=EBAC-Full-Stack-Python&theme=radical)](https://github.com/Ezequielsama/EBAC-Full-Stack-Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Curso-em-Video-JavaScript&theme=radical)](https://github.com/Ezequielsama/Curso-em-Video-JavaScript)
-
-###
-
-<img src="https://raw.githubusercontent.com/Ezequielsama/Ezequielsama/output/snake.svg" alt="Snake animation" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Infinity_TraderX&theme=radical)](https://github.com/Ezequielsama/Infinity_TraderX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=ThinQ&theme=radical)](https://github.com/Ezequielsama/ThinQ)
 
 ###
 
