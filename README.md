@@ -42,8 +42,8 @@
 
 ## Repositórios principais
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Infinity_TraderX&theme=radical)](https://github.com/Ezequielsama/Infinity_TraderX)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=ThinQ&theme=radical)](https://github.com/Ezequielsama/ThinQ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=galeria-de-fotos-jquery&theme=radical)](https://github.com/Ezequielsama/galeria-de-fotos-jquery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Agenda-de-Contatos&theme=radical)](https://github.com/Ezequielsama/Agenda-de-Contatos)
 
 ###
 
