@@ -23,6 +23,7 @@
 [![MongoDB_Compass_Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Mysql Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![typescript Badge](https://img.shields.io/badge/typescript-4EA94B?style=for-the-badge&logo=typescript&logoColor=white)]()
 
 <br>
 
