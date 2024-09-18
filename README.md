@@ -50,7 +50,7 @@
 ## Repositórios principais
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=galeria-de-fotos-jquery&theme=radical)](https://github.com/Ezequielsama/galeria-de-fotos-jquery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Financial_Control&theme=radical)](https://github.com/Ezequielsama/Financial_Control)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezequielsama&repo=Ezequielsama&theme=radical)](https://github.com/Ezequielsama/Ezequielsama)
 
 ###
 
