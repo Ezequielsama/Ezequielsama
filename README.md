@@ -42,9 +42,10 @@
 ## ⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/Ezequielsama">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ezequielsama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielsama&theme=tokyonight&hide_border=true&&layout=compact"/><br></a>
-</div>
+        <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Ezequielsama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezequielsama&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+    </a>
+</div><br>
 
 
 ## Repositórios principais
