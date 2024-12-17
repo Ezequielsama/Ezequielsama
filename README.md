@@ -62,7 +62,7 @@
 <div>
 <p>
 
-Atualmente trabalhando na **HAVAN**
+Atualmente trabalhando na **ThinQ**
 <br/>
 </p>
 <hr>
