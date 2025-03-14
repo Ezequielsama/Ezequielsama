@@ -8,7 +8,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Ezequielsama)](https://www.linkedin.com/in/ezequiel-collins-752775182/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/Ezequielsama)](https://wa.me/5591981156118)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://github.com/Ezequielsama)](https://t.me/ezequielcollins_dev)
 </h4>
 
 ##
@@ -52,11 +51,6 @@
 </div>
 
 <div>
-<p>
-
-Atualmente trabalhando na **ThinQ**
-<br/>
-</p>
 <hr>
 
 ##
